@@ -1,0 +1,158 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    font-size: 1vw;
+    background-color: #f4f4f4;
+}
+
+body > header {
+    background-color: white;
+}
+
+h1 {
+    font-size: 10vw;
+    margin: 0px;
+}
+
+body > footer > nav > ul {
+    margin: 0px;
+    padding: 10px;
+}
+
+body > header > article > h1 {
+    font-family: "Fascinate Inline", system-ui;
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+hr {
+    margin: 0px;
+    padding: 0px;
+    border-bottom: 200px;
+}
+
+marquee {
+    padding: 10px;
+}
+
+form {
+    padding: 10px;
+}
+
+article {
+    margin: 0px;
+}
+
+body > footer {
+    background-color: #45d9fd;
+}
+
+header > nav > ul > li {
+    list-style: none;
+    text-decoration: none;
+}
+
+.upper_line {
+    margin-top: 30px;
+}
+
+.nav_button {
+    color: black;
+    text-decoration: none; 
+    padding: 15px;
+    border: 5px solid black;
+    border-radius: 10%;
+}
+
+#nav_bar {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+#refs {
+    margin-left: 100px;
+}
+
+h4 {
+    margin: 5px;
+    margin-left: 10px;
+}
+
+h3 {
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+h2 {
+    margin-left: 10px;
+}
+
+form {
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+}
+
+p {
+    padding: 20px;
+}
+
+
+
+#footer_nav_bar {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+    text-align: center;
+}
+
+.footer_nav_buttons {
+    list-style: none;
+    text-decoration: none;
+    color: black;
+}
+
+#logo {
+    display: flex;
+    justify-content: space-around;
+}
+
+.yellow {
+    display: flex;
+}
+
+.yellow img {
+    width: 30%;
+}
+
+.blue {
+    display: flex;
+}
+
+.blue img {
+    width: 27%;
+    margin-right: 50px;
+}
+
+.red {
+    display: flex;
+    
+}
+
+.red img {
+    width: 30%;
+}
+
+#banner {
+    background-color: #45d9fd;
+}
+
+#copyright {
+    text-align: center;
+    padding-bottom: 10px;
+    background-color: #45d9fd;
+}
